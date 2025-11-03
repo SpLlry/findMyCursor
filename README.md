@@ -1,3 +1,4 @@
+基于python3.6
 # 配置参数
 DIRECTION_CHANGE_THRESHOLD = 3  # 触发晃动的方向改变次数
 MIN_MOVE_DISTANCE = 30  # 单次最小移动距离(像素)
